@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-28T14:00:48.592905"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 8,
+      "section_title": "\u2022 Notebook:  Bring a notebook to jot down notes ab...",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 2,
+      "section_title": "General Packing Tips and Tricks",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 1,
+      "section_title": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing,",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 9,
+      "section_title": "Conclusion",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 7,
+      "section_title": "\u2022 Additional Tips:  Bring a favorite stu\ufb00ed animal...",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 5,
+      "section_title": "\u2022 Additional Tips:  Download maps and travel guide...",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 6,
+      "section_title": "Packing for Kids",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "section_title": "Family -Friendly Hotels",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 4,
+      "section_title": "\u2022 Additional Tips:  Winter is mild compared to oth...",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "section_title": "Overview of the Region",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 8,
+      "refined_text": "\u2022 Notebook:  Bring a notebook to jot down notes about the wines you taste."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 8,
+      "refined_text": "\u2022 Roll Your Clothes:  Save space and reduce wrinkles."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 8,
+      "refined_text": "Consider using a luggage scale to avoid overweight baggage \nfees."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 2,
+      "refined_text": "\u2022 Layeri ng: The weather can vary, so pack layers to stay comfortable in di\ufb00erent \ntemperatures."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 2,
+      "refined_text": "\u2022 Copies of Important Documents:  Make copies of your passport, travel insurance, and \nother important documents."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 2,
+      "refined_text": "\u2022 Emergency Contact List:  Have a list of  emergency contacts, including local embassy \nor consulate information."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 1,
+      "refined_text": "Planning, and Exploring  \nIntroduction  \nPlanning a trip to the South of France requires thoughtful preparation to ensure a comfortable and enjoyable experience."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 1,
+      "refined_text": "This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 1,
+      "refined_text": "Whether you're traveling solo, with kids, or in a group, this guide will help you make the most of your trip."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 9,
+      "refined_text": "Packing for a trip to the South of France involves considering t he season, planned activities, \nand the needs of both adults and children."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 9,
+      "refined_text": "Remember to pack light, versatile clothing, and essential items to make the most of your travel experience."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 7,
+      "refined_text": "\u2022 Additional Tips:  Bring a favorite stu\ufb00ed animal or comfor t item to help kids feel at \nhome."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 7,
+      "refined_text": "\u2022 First Aid Kit:  A small kit with band -aids, antiseptic wipes, and medications."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 7,
+      "refined_text": "Wine Tours \n\u2022 Comfortable Clothing:  Wear comfortable, casual clothing suitable for walking and \nwine tasting."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 5,
+      "refined_text": "\u2022 Additional Tips:  Download maps and travel guides to your devices for o\ufb04ine use."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 5,
+      "refined_text": "Consider bringing a portable Wi-Fi hotspot for reliable internet access."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 6,
+      "refined_text": "Clothing  \n\u2022 Comfortable Wear: T-shirts, shorts, pants, dresses, pajamas, and underwear."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 6,
+      "refined_text": "\u2022 Additional Tips:  Pack a small backpack for each child with their essentials to keep \nthem engaged."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 6,
+      "refined_text": "\u2022 Blanket and Pillow:  A small blanket and travel pillow for comfort during flights or \nlong car rides."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "refined_text": "\u2022 Club Med Opio en Provence (Opio): A family -friendly resort o\ufb00ering a wide range of \nactivities for children and adults, including sports, entertainment, and kids' clubs."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "refined_text": "\u2022 H\u00f4tel du Cap -Eden -Roc (Antibes): A luxurious family -friendly hotel o\ufb00ering spacious \nrooms, beautiful gardens, and a variety of activities for children."
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 9,
+      "refined_text": "The elegant decor and attentive service ensure a comfortable stay for families."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 4,
+      "refined_text": "\u2022 Additional Tips:  Winter is mild compared to other regions, but it's still important to \npack warm clothing for cooler evenings."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 4,
+      "refined_text": "Toiletries  \n\u2022 Basic Toiletries:  Toothbrush, toothpaste, shampoo, conditioner, body wash, \ndeodorant, and personal hygiene items."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page_number": 4,
+      "refined_text": "\u2022 Books and Entertainment:  A book, e -reader, or tablet for entertainment during \ntravel."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "refined_text": "The South of France, or \"Le Midi,\" encompasses the regions of Provence -Alpes -C\u00f4te d'Azur, \nOccitanie, and parts of Nouvelle -Aquitaine."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "refined_text": "Travel Tips  \n\u2022 Best Time to Visit: The best time to visit the South of France is during the spring (April to June) and fall (September to October) when the weather is pleasant, and the tourist \ncrowds are smaller."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 2,
+      "refined_text": "Learning a few basic French phrases can enhance your travel experience."
+    }
+  ]
+}
