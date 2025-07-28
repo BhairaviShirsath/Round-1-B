@@ -1,4 +1,3 @@
-# Round-1-B
 # Round 1B: Persona-Driven Document Intelligence - Approach Explanation
 
 ## Methodology Overview
